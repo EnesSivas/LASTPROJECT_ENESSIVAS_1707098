@@ -22,15 +22,15 @@ Date of Delivery: 04.07.2022
 
 
 CONTENTS 
-1. INTRODUCTION................................................................................................................................2 
-2. METHODS ....................................................................................................................................3      
-2.1. What is NetBeans..........................................................................................................................3  
+1. INTRODUCTION.................................................................................................................................2 
+2. METHODS ............................................................................................................................................3      
+2.1. What is NetBeans.......................................................................................................................3  
 2.2. What is GitHub............................................................................................................................4 
-3. MAIN BODY (BEGINNING OF PROJECT)............................................................................................................5   
-3.1. Private, Protected, Public................................................................................................................5    
+3. MAIN BODY (BEGINNING OF PROJECT)....................................................................................5   
+3.1. Private, Protected, Public.........................................................................................................5    
 3.2. Static, Non-Static........................................................................................................................5    
-3.3. Get and Set Methods.......................................................................................................................6 
-4. RESULTS.....................................................................................................................................9
+3.3. Get and Set Methods................................................................................................................6 
+4. RESULTS..................................................................................................................................................9
 
 
 
@@ -44,6 +44,7 @@ We know that codes are constantly running in the background of all electronic de
 
 2. METHODS   
 First of all, let's talk briefly about the platforms that we will use while doing this project before we move on to the project requested from us.  
+
 2.1 What is NETBEANS?   
 NetBeans IDE is a free and open source integrated development environment for application development on Windows, Mac, Linux, and Solaris operating systems. The IDE simplifies the development of web, enterprise, desktop, and mobile applications that use the Java and HTML5 platforms. NetBeans is coded in Java and runs on most operating systems with a Java Virtual Machine. Object-oriented programming is done by using Java Object and Class structure. In fact, objects are made up of classes. We can define a class in Java using the class keyword.
 	Class; It is a template that defines the properties and functions of objects.
